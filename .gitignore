@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment and secrets
+.env
+
+# Logs
+*.log
+
+# Generated output
+output/
+
+# Editor settings
+.vscode/
