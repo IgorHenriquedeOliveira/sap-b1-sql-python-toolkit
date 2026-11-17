@@ -79,3 +79,4 @@ The validation block in `sql-queries/03` only reads data and sets the `@error` a
 **Igor Henrique de Oliveira**
 
 LinkedIn: [linkedin.com/in/igor-henrique-de-oliveira](https://linkedin.com/in/igor-henrique-de-oliveira) | GitHub: [github.com/IgorHenriquedeOliveira](https://github.com/IgorHenriquedeOliveira)
+LinkedIn: [linkedin.com/in/igor-henrique-de-oliveira](https://linkedin.com/in/igor-henrique-de-oliveira) | GitHub: [github.com/IgorHenriquedeOliveira](https://github.com/IgorHenriquedeOliveira)
